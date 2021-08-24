@@ -47,7 +47,10 @@ npm install vue-tables-2
 npm run serve
 ```
 
-### Compiles and minifies for production (if you want to test the web application locally don't run this now)
+### Compiles and minifies for production 
+
+If you only want to test the web application locally don't run this command.
+
 ```
 npm run build
 ```
