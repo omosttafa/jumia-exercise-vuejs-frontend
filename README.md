@@ -85,6 +85,8 @@ http://localhost:8081/jumia-exercise-vuejs-frontend/
 ### List of filtered phone numbers (valid and not valid)
 ![Morocco Validation](https://user-images.githubusercontent.com/89430295/130636899-e5ad3934-92cb-43b1-95a4-5f5d9c0ae61c.PNG)
 
+### Pagination Capability
+![Pagination](https://user-images.githubusercontent.com/89430295/130637330-9ee49c72-1fbd-4375-b6f5-36881817649c.PNG)
 
 
 
