@@ -70,7 +70,7 @@ npm run build
 
 ### Open web page from any browser using the local URL
 ```
-http://localhost:8081
+http://localhost:8081/jumia-exercise-vuejs-frontend/
 ```
 
 
