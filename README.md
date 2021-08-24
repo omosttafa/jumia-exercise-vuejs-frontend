@@ -7,22 +7,39 @@ Pagination is applied on the list of phone numbers.
 
 ## Main technology stack
 
-* Node.js/NPM 6.14.14
-* vueJS 4.5.13
-* axios ^0.21.1
-* vue-axios ^3.2.5
-* vue-tables-2 ^2.3.1
+* Node.js/NPM (6.14.14)
+* vueJS (4.5.13)
+* axios (^0.21.1)
+* vue-axios (^3.2.5)
+* vue-tables-2 (^2.3.1)
 * VuePagination
 * Bootstrap
+
+## Clone Repository
+```
+git clone https://github.com/omosttafa/jumia-exercise-vuejs-frontend.git
+cd jumia-exercise-vuejs-frontend
+```
 
 ## Project setup
 ```
 cd jumia-exercise-vuejs-frontend
 npm install
 ```
+
 ## Install VUE CLI
 ```
 npm install -g @vue/cli
+```
+
+### Instal axios & vue-axios for HTTP calls from Vue.js to (Spring Boot) REST backend
+```
+npm install --save axios vue-axios
+```
+
+### Instal vue-tables-2 packages
+```
+npm install vue-tables-2
 ```
 
 ### Compiles and hot-reloads for development
@@ -30,13 +47,27 @@ npm install -g @vue/cli
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production (if you want to test the web application locally don't run this now)
 ```
 npm run build
 ```
 
-### Instal axios & vue-axios for HTTP calls from Vue.js to (Spring Boot) REST backend
 ```
-npm install --save axios vue-axios
+ DONE  Compiled successfully in 28220ms                                                                       3:44:14 AM
+
+
+  App running at:
+  - Local:   http://localhost:8081/
+  - Network: http://192.168.0.117:8081/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
 ```
+
+### Open web page from any browser using the local URL
+```
+http://localhost:8081
+```
+
+
 
