@@ -15,7 +15,9 @@ Pagination is applied on the list of phone numbers.
 * VuePagination
 * Dockerfile (for the ability to build the project in a docker image)
 * Visual Studio Code (IDE)
-## Clone Repository
+
+
+### Clone Repository
 ```
 git clone https://github.com/omosttafa/jumia-exercise-vuejs-frontend.git
 cd jumia-exercise-vuejs-frontend
@@ -27,7 +29,7 @@ cd jumia-exercise-vuejs-frontend
 npm install
 ```
 
-## Install VUE CLI
+### Install VUE CLI
 ```
 npm install -g @vue/cli
 ```
