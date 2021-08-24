@@ -14,6 +14,7 @@ Pagination is applied on the list of phone numbers.
 * vue-tables-2 (^2.3.1)
 * VuePagination
 * Dockerfile (for the ability to build the project in a docker image)
+* Visual Studio Code (IDE)
 
 ## Clone Repository
 ```
