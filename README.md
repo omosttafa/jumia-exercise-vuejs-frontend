@@ -46,7 +46,7 @@ npm install vue-tables-2
 
 ### Before running the server
 
-Make sure Spring Boot Backend server is running (port 8080)
+Make sure Spring Boot Backend server is running (http://localhost:8080)
 
 ### Compiles and hot-reloads for development
 ```
