@@ -16,6 +16,9 @@ Pagination is applied on the list of phone numbers.
 * Dockerfile (for the ability to build the project in a docker image)
 * Visual Studio Code (IDE)
 
+![Kiku](screenshots/Home page.PNG)
+
+
 ## Clone Repository
 ```
 git clone https://github.com/omosttafa/jumia-exercise-vuejs-frontend.git
