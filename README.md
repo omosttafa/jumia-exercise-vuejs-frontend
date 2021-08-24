@@ -13,7 +13,7 @@ Pagination is applied on the list of phone numbers.
 * vue-axios (^3.2.5)
 * vue-tables-2 (^2.3.1)
 * VuePagination
-* Bootstrap
+* Dockerfile (for the ability to build the project in a docker image)
 
 ## Clone Repository
 ```
