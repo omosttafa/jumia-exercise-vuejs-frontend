@@ -1,4 +1,5 @@
-![alt text here](Home Page.png)
+![Home page](https://user-images.githubusercontent.com/89430295/130636638-d0c0a6c0-7e7b-4a1d-972d-e8661ab22406.PNG)
+
 
 # Jumia Exercise VUE.JS (Front-end).
 
