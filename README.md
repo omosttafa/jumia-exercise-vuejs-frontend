@@ -42,6 +42,10 @@ npm install --save axios vue-axios
 npm install vue-tables-2
 ```
 
+### Before running the server
+
+Make sure Spring Boot Backend server is running (port 8080)
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
