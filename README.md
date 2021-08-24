@@ -1,6 +1,3 @@
-![Home page](https://user-images.githubusercontent.com/89430295/130636638-d0c0a6c0-7e7b-4a1d-972d-e8661ab22406.PNG)
-
-
 # Jumia Exercise VUE.JS (Front-end).
 
 # Overview
@@ -78,6 +75,16 @@ npm run build
 ```
 http://localhost:8081/jumia-exercise-vuejs-frontend/
 ```
+
+### Home Page (List of all customers phone numbers)
+![Home page](https://user-images.githubusercontent.com/89430295/130636638-d0c0a6c0-7e7b-4a1d-972d-e8661ab22406.PNG)
+
+### Select country to filter phone numbers
+![Select Country](https://user-images.githubusercontent.com/89430295/130636812-ce2e939f-cee3-4a6e-8868-40ac3a688e06.png)
+
+### List of filtered phone numbers (valid and not valid)
+![Morocco Validation](https://user-images.githubusercontent.com/89430295/130636899-e5ad3934-92cb-43b1-95a4-5f5d9c0ae61c.PNG)
+
 
 
 
