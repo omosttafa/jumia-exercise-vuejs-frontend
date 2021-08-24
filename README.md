@@ -1,3 +1,5 @@
+![alt text here](Home Page.png)
+
 # Jumia Exercise VUE.JS (Front-end).
 
 # Overview
