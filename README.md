@@ -1,11 +1,11 @@
-# Jumia Exercise VUE.JS (Front-end).
+#### Jumia Exercise VUE.JS (Front-end).
 
-# Overview
+### Overview
 This is a Front-end Web Application implemented using VUE.JS Framework. It is a single web application page for calling the REST APIs that was implemented using Spring Boot back-end through HTTP calls to represent the list of customers phone numbers and provide a capability of filtering the list by chosing the country from a dropdown menu which validates phone numbers and represent the list of customers from the selected country listing both the valid and not valid phone numbers. 
 
 Pagination is applied on the list of phone numbers.
 
-## Main technology stack
+### Main technology stack
 
 * Node.js/NPM (6.14.14)
 * vueJS (4.5.13)
@@ -21,7 +21,7 @@ git clone https://github.com/omosttafa/jumia-exercise-vuejs-frontend.git
 cd jumia-exercise-vuejs-frontend
 ```
 
-## Project setup
+### Project setup
 ```
 cd jumia-exercise-vuejs-frontend
 npm install
